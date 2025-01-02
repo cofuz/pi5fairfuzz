@@ -1,0 +1,3255 @@
+Entering new queueing cycle
+while bitflipping, 0 of 0 tries hit branch -1
+while calibrating, 0 of 0 tries hit branch -1
+calib stage: 0 new coverage in 36 total execs
+calib stage: 0 new branches in 36 total execs
+In deterministic stage, 0 of 0 tries hit branch -1
+det stage: 0 new coverage in 500 total execs
+det stage: 0 new branches in 500 total execs
+In havoc stage, 0 of 0 tries hit branch -1
+havoc stage: 0 new coverage in 1524 total execs
+havoc stage: 0 new branches in 1524 total execs
+Was returning list of size 0
+Upped max exp to 11
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 1172 inputs) 
+while bitflipping, 32 of 32 tries hit branch 12
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 45 total execs
+calib stage: 0 new branches in 45 total execs
+In deterministic stage, 442 of 442 tries hit branch 12
+det stage: 0 new coverage in 487 total execs
+det stage: 0 new branches in 487 total execs
+In havoc stage, 1024 of 1024 tries hit branch 12
+havoc stage: 0 new coverage in 1511 total execs
+havoc stage: 0 new branches in 1511 total execs
+Was returning list of size 0
+Upped max exp to 12
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 2351 inputs) 
+while bitflipping, 32 of 32 tries hit branch 12
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 45 total execs
+calib stage: 0 new branches in 45 total execs
+In deterministic stage, 449 of 449 tries hit branch 12
+det stage: 0 new coverage in 494 total execs
+det stage: 0 new branches in 494 total execs
+In havoc stage, 1024 of 1024 tries hit branch 12
+havoc stage: 0 new coverage in 1518 total execs
+havoc stage: 0 new branches in 1518 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 3492 inputs) 
+while bitflipping, 32 of 32 tries hit branch 12
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 45 total execs
+calib stage: 0 new branches in 45 total execs
+In deterministic stage, 439 of 439 tries hit branch 12
+det stage: 0 new coverage in 484 total execs
+det stage: 0 new branches in 484 total execs
+In havoc stage, 1024 of 1024 tries hit branch 12
+havoc stage: 0 new coverage in 1508 total execs
+havoc stage: 0 new branches in 1508 total execs
+Was returning list of size 0
+Upped max exp to 13
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 4657 inputs) 
+while bitflipping, 32 of 32 tries hit branch 12
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 45 total execs
+calib stage: 0 new branches in 45 total execs
+In deterministic stage, 439 of 439 tries hit branch 12
+det stage: 0 new coverage in 484 total execs
+det stage: 0 new branches in 484 total execs
+In havoc stage, 1024 of 1024 tries hit branch 12
+havoc stage: 0 new coverage in 1508 total execs
+havoc stage: 0 new branches in 1508 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 5822 inputs) 
+while bitflipping, 32 of 32 tries hit branch 12
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 45 total execs
+calib stage: 0 new branches in 45 total execs
+In deterministic stage, 448 of 448 tries hit branch 12
+det stage: 0 new coverage in 493 total execs
+det stage: 0 new branches in 493 total execs
+In havoc stage, 1024 of 1024 tries hit branch 12
+havoc stage: 0 new coverage in 1517 total execs
+havoc stage: 0 new branches in 1517 total execs
+Entering new queueing cycle
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 6954 inputs) 
+while bitflipping, 32 of 32 tries hit branch 12
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 45 total execs
+calib stage: 0 new branches in 45 total execs
+In deterministic stage, 462 of 462 tries hit branch 12
+det stage: 0 new coverage in 507 total execs
+det stage: 0 new branches in 507 total execs
+In havoc stage, 1128 of 1128 tries hit branch 12
+havoc stage: 0 new coverage in 1635 total execs
+havoc stage: 0 new branches in 1635 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 8173 inputs) 
+while bitflipping, 32 of 32 tries hit branch 12
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 45 total execs
+calib stage: 0 new branches in 45 total execs
+In deterministic stage, 438 of 438 tries hit branch 12
+det stage: 0 new coverage in 483 total execs
+det stage: 0 new branches in 483 total execs
+In havoc stage, 1504 of 1504 tries hit branch 12
+havoc stage: 0 new coverage in 1987 total execs
+havoc stage: 0 new branches in 1987 total execs
+Was returning list of size 0
+Upped max exp to 14
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 9674 inputs) 
+while bitflipping, 32 of 32 tries hit branch 12
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 45 total execs
+calib stage: 0 new branches in 45 total execs
+In deterministic stage, 464 of 464 tries hit branch 12
+det stage: 0 new coverage in 509 total execs
+det stage: 0 new branches in 509 total execs
+In havoc stage, 1504 of 1504 tries hit branch 12
+havoc stage: 0 new coverage in 2013 total execs
+havoc stage: 0 new branches in 2013 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 11197 inputs) 
+while bitflipping, 32 of 32 tries hit branch 12
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 45 total execs
+calib stage: 0 new branches in 45 total execs
+In deterministic stage, 464 of 464 tries hit branch 12
+det stage: 0 new coverage in 509 total execs
+det stage: 0 new branches in 509 total execs
+In havoc stage, 1504 of 1504 tries hit branch 12
+havoc stage: 0 new coverage in 2013 total execs
+havoc stage: 0 new branches in 2013 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 12680 inputs) 
+while bitflipping, 32 of 32 tries hit branch 12
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 45 total execs
+calib stage: 0 new branches in 45 total execs
+In deterministic stage, 464 of 464 tries hit branch 12
+det stage: 0 new coverage in 509 total execs
+det stage: 0 new branches in 509 total execs
+In havoc stage, 1504 of 1504 tries hit branch 12
+havoc stage: 0 new coverage in 2013 total execs
+havoc stage: 0 new branches in 2013 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 14203 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 14746 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 15321 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 15887 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Was returning list of size 0
+Upped max exp to 15
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 16451 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 17015 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 17446 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 17993 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 18552 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 19119 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 19691 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 20244 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 20802 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 21356 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 21926 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 22511 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 22945 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 23499 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 24049 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 24578 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 25143 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 25702 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 26274 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 26849 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 27403 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 27959 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 28380 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 28958 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 29515 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 30076 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 30635 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 31212 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 31767 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 32316 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Was returning list of size 0
+Upped max exp to 16
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 32887 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 33450 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 33885 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 34464 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 35015 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 35581 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 36138 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 36697 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 37270 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 37830 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 38387 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 38957 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 39382 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 39940 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 40512 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 41088 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 41659 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 42232 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 42777 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 43352 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 43915 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 44473 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 44899 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 45482 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 46045 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 46604 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 47175 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 47733 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 48297 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 48855 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 49411 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 49979 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 50396 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 50949 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 51528 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 52090 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 52651 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 53221 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 53780 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 54348 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 54916 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 55466 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 55895 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 56468 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 57006 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 57578 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 58128 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 58698 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 59255 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 59815 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 60386 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 60949 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 61391 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 61957 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 62523 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 63099 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 63667 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 64227 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 64782 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 65340 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Was returning list of size 0
+Upped max exp to 17
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 65891 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 66441 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 66853 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 67401 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 67973 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 68532 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 69105 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 69678 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 70236 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 70775 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 71341 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 71906 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 72345 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 72916 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 73461 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 74006 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 74568 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 75145 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 75706 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 76270 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 76824 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 77401 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 77827 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 78393 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 78932 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 79500 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 80052 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 80615 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 81194 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 81753 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 82316 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 82879 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 83289 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 83841 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 84420 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 84979 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 85542 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 86093 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 86664 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 87222 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 87799 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 88370 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 88783 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 89340 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 89902 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 90475 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 91038 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 91595 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 92163 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 92736 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 93285 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 93846 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 94277 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 94824 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 95349 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 95883 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 96406 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 96937 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 97464 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 98003 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 98535 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 99082 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 99466 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 99966 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 100497 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 101029 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 101551 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 102073 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 102604 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 103133 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 103666 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 104200 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 104581 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 105098 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 105642 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 106171 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 106681 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 107224 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 107762 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 108309 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 108822 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 109364 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 109752 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 110278 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 110811 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 111358 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 111905 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 112434 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 112955 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 113474 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 114020 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 114550 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 114960 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 115479 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 115997 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 116519 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 117061 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 117584 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 118110 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 118602 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 119120 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 119635 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 120046 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 120583 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 121112 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 121652 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 122188 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 122720 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 123264 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 123815 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 124347 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 124864 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 125263 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 125826 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 126352 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 126860 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 127396 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 127907 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 128438 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 128976 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 129493 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 130021 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 130415 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 130942 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Was returning list of size 0
+Upped max exp to 18
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 131473 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 132008 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 132560 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 133098 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 133632 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 134176 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 134710 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 135244 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 135633 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 136180 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 136712 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 137249 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 137760 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 138288 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 138836 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 139357 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 139872 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 140399 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 140807 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 141343 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 141865 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 142396 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 142929 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 143456 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 143992 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 144514 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 145066 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 145589 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 145978 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 146493 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 147030 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 147585 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 148125 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 148644 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 149151 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 149678 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 150214 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 150751 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 552 of 552 tries hit branch 12
+havoc stage: 0 new coverage in 565 total execs
+havoc stage: 0 new branches in 565 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000001,orig:10.txt: 
+which hit branch 12 (hit by 151156 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000002,orig:2.txt: 
+which hit branch 12 (hit by 151695 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000003,orig:3.txt: 
+which hit branch 12 (hit by 152231 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000004,orig:4.txt: 
+which hit branch 12 (hit by 152764 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000005,orig:5.txt: 
+which hit branch 12 (hit by 153296 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000006,orig:6.txt: 
+which hit branch 12 (hit by 153819 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000007,orig:7.txt: 
+which hit branch 12 (hit by 154366 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000008,orig:8.txt: 
+which hit branch 12 (hit by 154883 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000009,orig:9.txt: 
+which hit branch 12 (hit by 155430 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 736 of 736 tries hit branch 12
+havoc stage: 0 new coverage in 749 total execs
+havoc stage: 0 new branches in 749 total execs
+Entering new queueing cycle
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000000,orig:1.txt: 
+which hit branch 12 (hit by 155953 inputs) 
+while calibrating, 13 of 13 tries hit branch 12
+calib stage: 0 new coverage in 13 total execs
+calib stage: 0 new branches in 13 total execs
+In havoc stage, 576 of 576 tries hit branch 12
+havoc stage: 1 new coverage in 597 total execs
+havoc stage: 1 new branches in 597 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000010,src:000000+000007,op:splice,rep:64,+cov: 
+which hit branch 395 (hit by 1 inputs) 
+while bitflipping, 8 of 32 tries hit branch 395
+while calibrating, 4 of 13 tries hit branch 395
+calib stage: 0 new coverage in 45 total execs
+calib stage: 0 new branches in 45 total execs
+In deterministic stage, 70 of 70 tries hit branch 395
+det stage: 0 new coverage in 115 total execs
+det stage: 0 new branches in 115 total execs
+In havoc stage, 11792 of 30720 tries hit branch 395
+havoc stage: 2 new coverage in 30851 total execs
+havoc stage: 2 new branches in 30851 total execs
+Was returning list of size 0
+Upped max exp to 2
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000012,src:000010+000011,op:splice,rep:4,+cov: 
+which hit branch 194 (hit by 2 inputs) 
+while bitflipping, 0 of 32 tries hit branch 194
+while calibrating, 3 of 13 tries hit branch 194
+calib stage: 0 new coverage in 45 total execs
+calib stage: 0 new branches in 45 total execs
+In deterministic stage, 0 of 0 tries hit branch 194
+det stage: 0 new coverage in 45 total execs
+det stage: 0 new branches in 45 total execs
+In havoc stage, 14933 of 28416 tries hit branch 194
+havoc stage: 12 new coverage in 28557 total execs
+havoc stage: 4 new branches in 28557 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000024,src:000012,op:havoc,rep:8,+cov: 
+which hit branch 199 (hit by 1 inputs) 
+while bitflipping, 24 of 40 tries hit branch 199
+while calibrating, 11 of 16 tries hit branch 199
+calib stage: 0 new coverage in 56 total execs
+calib stage: 0 new branches in 56 total execs
+In deterministic stage, 306 of 306 tries hit branch 199
+det stage: 0 new coverage in 362 total execs
+det stage: 0 new branches in 362 total execs
+In havoc stage, 15945 of 31104 tries hit branch 199
+havoc stage: 13 new coverage in 31570 total execs
+havoc stage: 2 new branches in 31570 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000035,src:000024+000026,op:splice,rep:2,+cov: 
+which hit branch 196 (hit by 1 inputs) 
+while bitflipping, 1000 of 5272 tries hit branch 196
+while calibrating, 918 of 1978 tries hit branch 196
+calib stage: 0 new coverage in 7250 total execs
+calib stage: 0 new branches in 7250 total execs
+In deterministic stage, 24910 of 24910 tries hit branch 196
+det stage: 1 new coverage in 32168 total execs
+det stage: 0 new branches in 32168 total execs
+In havoc stage, 11733 of 29952 tries hit branch 196
+havoc stage: 9 new coverage in 62184 total execs
+havoc stage: 0 new branches in 62184 total execs
+Was returning list of size 0
+Upped max exp to 5
+Entering new queueing cycle
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000022,src:000012,op:havoc,rep:8,+cov: 
+which hit branch 191 (hit by 18 inputs) 
+while bitflipping, 24 of 56 tries hit branch 191
+while calibrating, 12 of 22 tries hit branch 191
+calib stage: 0 new coverage in 78 total execs
+calib stage: 0 new branches in 78 total execs
+In deterministic stage, 292 of 371 tries hit branch 191
+det stage: 1 new coverage in 457 total execs
+det stage: 0 new branches in 457 total execs
+In havoc stage, 9522 of 36608 tries hit branch 191
+havoc stage: 7 new coverage in 37113 total execs
+havoc stage: 0 new branches in 37113 total execs
+Was returning list of size 0
+Upped max exp to 8
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000027,src:000024+000018,op:splice,rep:4,+cov: 
+which hit branch 197 (hit by 146 inputs) 
+while bitflipping, 6200 of 6208 tries hit branch 197
+while calibrating, 2326 of 2329 tries hit branch 197
+calib stage: 0 new coverage in 8537 total execs
+calib stage: 0 new branches in 8537 total execs
+In deterministic stage, 157052 of 157063 tries hit branch 197
+det stage: 1 new coverage in 165608 total execs
+det stage: 0 new branches in 165608 total execs
+In havoc stage, 15740 of 19968 tries hit branch 197
+havoc stage: 2 new coverage in 185584 total execs
+havoc stage: 0 new branches in 185584 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000044,src:000035,op:havoc,rep:4: 
+which hit branch 198 (hit by 170 inputs) 
+while bitflipping, 4937 of 8680 tries hit branch 198
+while calibrating, 2327 of 3256 tries hit branch 198
+calib stage: 0 new coverage in 11936 total execs
+calib stage: 0 new branches in 11936 total execs
+In deterministic stage, 125939 of 125939 tries hit branch 198
+det stage: 0 new coverage in 137875 total execs
+det stage: 0 new branches in 137875 total execs
+In havoc stage, 6018 of 20224 tries hit branch 198
+havoc stage: 1 new coverage in 158107 total execs
+havoc stage: 0 new branches in 158107 total execs
+Was returning list of size 0
+Upped max exp to 12
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000053,src:000022,op:havoc,rep:8: 
+which hit branch 193 (hit by 2624 inputs) 
+while bitflipping, 153 of 192 tries hit branch 193
+while calibrating, 62 of 73 tries hit branch 193
+calib stage: 2 new coverage in 281 total execs
+calib stage: 0 new branches in 281 total execs
+In deterministic stage, 2782 of 2964 tries hit branch 193
+det stage: 2 new coverage in 3245 total execs
+det stage: 0 new branches in 3245 total execs
+In havoc stage, 5159 of 20224 tries hit branch 193
+havoc stage: 3 new coverage in 23477 total execs
+havoc stage: 0 new branches in 23477 total execs
+Was returning list of size 0
+Upped max exp to 13
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000056,src:000044,op:havoc,rep:2: 
+which hit branch 198 (hit by 5241 inputs) 
+while bitflipping, 4633 of 6328 tries hit branch 198
+while calibrating, 1952 of 2374 tries hit branch 198
+calib stage: 0 new coverage in 8702 total execs
+calib stage: 0 new branches in 8702 total execs
+In deterministic stage, 119618 of 119618 tries hit branch 198
+det stage: 0 new coverage in 128320 total execs
+det stage: 0 new branches in 128320 total execs
+In havoc stage, 12384 of 36608 tries hit branch 198
+havoc stage: 2 new coverage in 164944 total execs
+havoc stage: 0 new branches in 164944 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000057,src:000053,op:flip1,pos:8: 
+which hit branch 193 (hit by 4777 inputs) 
+while bitflipping, 49 of 96 tries hit branch 193
+while calibrating, 24 of 37 tries hit branch 193
+calib stage: 0 new coverage in 133 total execs
+calib stage: 0 new branches in 133 total execs
+In deterministic stage, 570 of 570 tries hit branch 193
+det stage: 0 new coverage in 703 total execs
+det stage: 0 new branches in 703 total execs
+In havoc stage, 3724 of 12544 tries hit branch 193
+havoc stage: 2 new coverage in 13263 total execs
+havoc stage: 0 new branches in 13263 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000058,src:000053,op:flip1,pos:12: 
+which hit branch 193 (hit by 6898 inputs) 
+while bitflipping, 81 of 128 tries hit branch 193
+while calibrating, 36 of 49 tries hit branch 193
+calib stage: 0 new coverage in 177 total execs
+calib stage: 0 new branches in 177 total execs
+In deterministic stage, 1183 of 1183 tries hit branch 193
+det stage: 0 new coverage in 1360 total execs
+det stage: 0 new branches in 1360 total execs
+In havoc stage, 4101 of 11776 tries hit branch 193
+havoc stage: 0 new coverage in 13136 total execs
+havoc stage: 0 new branches in 13136 total execs
+Was returning list of size 0
+Upped max exp to 14
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000059,src:000053,op:havoc,rep:2: 
+which hit branch 193 (hit by 8527 inputs) 
+while bitflipping, 4049 of 4096 tries hit branch 193
+while calibrating, 1524 of 1537 tries hit branch 193
+calib stage: 2 new coverage in 5649 total execs
+calib stage: 0 new branches in 5649 total execs
+In deterministic stage, 80650 of 80650 tries hit branch 193
+det stage: 2 new coverage in 86299 total execs
+det stage: 0 new branches in 86299 total execs
+In havoc stage, 7304 of 11776 tries hit branch 193
+havoc stage: 2 new coverage in 98075 total execs
+havoc stage: 0 new branches in 98075 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000060,src:000056,op:havoc,rep:2: 
+which hit branch 198 (hit by 11231 inputs) 
+while bitflipping, 9089 of 10720 tries hit branch 198
+while calibrating, 3618 of 4021 tries hit branch 198
+calib stage: 0 new coverage in 14741 total execs
+calib stage: 0 new branches in 14741 total execs
+In deterministic stage, 239565 of 239565 tries hit branch 198
+det stage: 0 new coverage in 254306 total execs
+det stage: 0 new branches in 254306 total execs
+In havoc stage, 10158 of 30336 tries hit branch 198
+havoc stage: 2 new coverage in 284658 total execs
+havoc stage: 0 new branches in 284658 total execs
+Was returning list of size 0
+Upped max exp to 15
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000061,src:000056,op:havoc,rep:4: 
+which hit branch 198 (hit by 25506 inputs) 
+while bitflipping, 4689 of 5792 tries hit branch 198
+while calibrating, 1901 of 2173 tries hit branch 198
+calib stage: 0 new coverage in 7965 total execs
+calib stage: 0 new branches in 7965 total execs
+In deterministic stage, 104615 of 104615 tries hit branch 198
+det stage: 0 new coverage in 112580 total execs
+det stage: 0 new branches in 112580 total execs
+In havoc stage, 10608 of 30336 tries hit branch 198
+havoc stage: 2 new coverage in 142932 total execs
+havoc stage: 0 new branches in 142932 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000062,src:000057+000027,op:splice,rep:8: 
+which hit branch 193 (hit by 31738 inputs) 
+while bitflipping, 58 of 224 tries hit branch 193
+while calibrating, 38 of 85 tries hit branch 193
+calib stage: 0 new coverage in 309 total execs
+calib stage: 0 new branches in 309 total execs
+In deterministic stage, 513 of 513 tries hit branch 193
+det stage: 0 new coverage in 822 total execs
+det stage: 0 new branches in 822 total execs
+In havoc stage, 14015 of 36608 tries hit branch 193
+havoc stage: 2 new coverage in 37446 total execs
+havoc stage: 0 new branches in 37446 total execs
+Was returning list of size 0
+Upped max exp to 16
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000063,src:000057+000038,op:splice,rep:4: 
+which hit branch 193 (hit by 36638 inputs) 
+while bitflipping, 2177 of 3136 tries hit branch 193
+while calibrating, 939 of 1177 tries hit branch 193
+calib stage: 1 new coverage in 4321 total execs
+calib stage: 0 new branches in 4321 total execs
+In deterministic stage, 58198 of 58338 tries hit branch 193
+det stage: 1 new coverage in 62659 total execs
+det stage: 0 new branches in 62659 total execs
+In havoc stage, 4061 of 12032 tries hit branch 193
+havoc stage: 1 new coverage in 74691 total execs
+havoc stage: 0 new branches in 74691 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000064,src:000059,op:flip1,pos:132: 
+which hit branch 193 (hit by 51888 inputs) 
+while bitflipping, 1041 of 1088 tries hit branch 193
+while calibrating, 396 of 409 tries hit branch 193
+calib stage: 0 new coverage in 1497 total execs
+calib stage: 0 new branches in 1497 total execs
+In deterministic stage, 21222 of 21222 tries hit branch 193
+det stage: 0 new coverage in 22719 total execs
+det stage: 0 new branches in 22719 total execs
+In havoc stage, 6239 of 11520 tries hit branch 193
+havoc stage: 0 new coverage in 34239 total execs
+havoc stage: 0 new branches in 34239 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000065,src:000059,op:flip1,pos:133: 
+which hit branch 193 (hit by 59472 inputs) 
+while bitflipping, 1041 of 1088 tries hit branch 193
+while calibrating, 396 of 409 tries hit branch 193
+calib stage: 0 new coverage in 1497 total execs
+calib stage: 0 new branches in 1497 total execs
+In deterministic stage, 21282 of 21282 tries hit branch 193
+det stage: 0 new coverage in 22779 total execs
+det stage: 0 new branches in 22779 total execs
+In havoc stage, 6203 of 11520 tries hit branch 193
+havoc stage: 0 new coverage in 34299 total execs
+havoc stage: 0 new branches in 34299 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000066,src:000060,op:havoc,rep:2: 
+which hit branch 198 (hit by 35480 inputs) 
+while bitflipping, 14905 of 16472 tries hit branch 198
+while calibrating, 5788 of 6178 tries hit branch 198
+calib stage: 0 new coverage in 22650 total execs
+calib stage: 0 new branches in 22650 total execs
+In deterministic stage, 418844 of 418844 tries hit branch 198
+det stage: 0 new coverage in 441494 total execs
+det stage: 0 new branches in 441494 total execs
+In havoc stage, 6139 of 18048 tries hit branch 198
+havoc stage: 0 new coverage in 459542 total execs
+havoc stage: 0 new branches in 459542 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000070,src:000062,op:havoc,rep:8: 
+which hit branch 197 (hit by 44256 inputs) 
+while bitflipping, 105 of 120 tries hit branch 197
+while calibrating, 42 of 46 tries hit branch 197
+calib stage: 0 new coverage in 166 total execs
+calib stage: 0 new branches in 166 total execs
+In deterministic stage, 1996 of 1996 tries hit branch 197
+det stage: 0 new coverage in 2162 total execs
+det stage: 0 new branches in 2162 total execs
+In havoc stage, 16543 of 30720 tries hit branch 197
+havoc stage: 2 new coverage in 32898 total execs
+havoc stage: 0 new branches in 32898 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000071,src:000062,op:havoc,rep:2: 
+which hit branch 197 (hit by 45597 inputs) 
+while bitflipping, 145 of 160 tries hit branch 197
+while calibrating, 57 of 61 tries hit branch 197
+calib stage: 0 new coverage in 221 total execs
+calib stage: 0 new branches in 221 total execs
+In deterministic stage, 3305 of 3305 tries hit branch 197
+det stage: 0 new coverage in 3526 total execs
+det stage: 0 new branches in 3526 total execs
+In havoc stage, 9636 of 18048 tries hit branch 197
+havoc stage: 0 new coverage in 21574 total execs
+havoc stage: 0 new branches in 21574 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000073,src:000070,op:havoc,rep:2: 
+which hit branch 197 (hit by 46032 inputs) 
+while bitflipping, 649 of 664 tries hit branch 197
+while calibrating, 247 of 250 tries hit branch 197
+calib stage: 0 new coverage in 914 total execs
+calib stage: 0 new branches in 914 total execs
+In deterministic stage, 17421 of 17421 tries hit branch 197
+det stage: 0 new coverage in 18335 total execs
+det stage: 0 new branches in 18335 total execs
+In havoc stage, 11894 of 18048 tries hit branch 197
+havoc stage: 0 new coverage in 36383 total execs
+havoc stage: 0 new branches in 36383 total execs
+Entering new queueing cycle
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000016,src:000012,op:havoc,rep:64,+cov: 
+which hit branch 192 (hit by 36201 inputs) 
+while bitflipping, 0 of 40 tries hit branch 192
+while calibrating, 4 of 16 tries hit branch 192
+calib stage: 0 new coverage in 56 total execs
+calib stage: 0 new branches in 56 total execs
+In deterministic stage, 0 of 0 tries hit branch 192
+det stage: 0 new coverage in 56 total execs
+det stage: 0 new branches in 56 total execs
+In havoc stage, 4821 of 12032 tries hit branch 192
+havoc stage: 0 new coverage in 12088 total execs
+havoc stage: 0 new branches in 12088 total execs
+We fuzzed this guy already
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000027,src:000024+000018,op:splice,rep:4,+cov: 
+which hit branch 192 (hit by 39603 inputs) 
+while calibrating, 2320 of 2329 tries hit branch 192
+calib stage: 0 new coverage in 2329 total execs
+calib stage: 0 new branches in 2329 total execs
+In deterministic stage, 176250 of 176287 tries hit branch 192
+det stage: 0 new coverage in 178616 total execs
+det stage: 0 new branches in 178616 total execs
+In havoc stage, 2897 of 5888 tries hit branch 192
+havoc stage: 0 new coverage in 184504 total execs
+havoc stage: 0 new branches in 184504 total execs
+Was returning list of size 0
+Upped max exp to 17
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000028,src:000024+000027,op:splice,rep:2: 
+which hit branch 192 (hit by 88338 inputs) 
+while bitflipping, 1561 of 1592 tries hit branch 192
+while calibrating, 589 of 598 tries hit branch 192
+calib stage: 0 new coverage in 2190 total execs
+calib stage: 0 new branches in 2190 total execs
+In deterministic stage, 44117 of 44154 tries hit branch 192
+det stage: 0 new coverage in 46344 total execs
+det stage: 0 new branches in 46344 total execs
+In havoc stage, 6119 of 12032 tries hit branch 192
+havoc stage: 0 new coverage in 58376 total execs
+havoc stage: 0 new branches in 58376 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000029,src:000024+000027,op:splice,rep:32: 
+which hit branch 192 (hit by 101500 inputs) 
+while bitflipping, 161 of 192 tries hit branch 192
+while calibrating, 64 of 73 tries hit branch 192
+calib stage: 0 new coverage in 265 total execs
+calib stage: 0 new branches in 265 total execs
+In deterministic stage, 4018 of 4117 tries hit branch 192
+det stage: 0 new coverage in 4382 total execs
+det stage: 0 new branches in 4382 total execs
+In havoc stage, 3792 of 12032 tries hit branch 192
+havoc stage: 0 new coverage in 16414 total execs
+havoc stage: 0 new branches in 16414 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000030,src:000024+000027,op:splice,rep:2: 
+which hit branch 192 (hit by 103516 inputs) 
+while bitflipping, 10265 of 10304 tries hit branch 192
+while calibrating, 3854 of 3865 tries hit branch 192
+calib stage: 0 new coverage in 14169 total execs
+calib stage: 0 new branches in 14169 total execs
+In deterministic stage, 293093 of 293093 tries hit branch 192
+det stage: 0 new coverage in 307262 total execs
+det stage: 0 new branches in 307262 total execs
+In havoc stage, 8503 of 12032 tries hit branch 192
+havoc stage: 0 new coverage in 319294 total execs
+havoc stage: 0 new branches in 319294 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000035,src:000024+000026,op:splice,rep:2,+cov: 
+which hit branch 196 (hit by 86304 inputs) 
+while calibrating, 917 of 1978 tries hit branch 196
+calib stage: 0 new coverage in 1978 total execs
+calib stage: 0 new branches in 1978 total execs
+In havoc stage, 1193 of 5888 tries hit branch 196
+havoc stage: 0 new coverage in 7866 total execs
+havoc stage: 0 new branches in 7866 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000038,src:000035,op:arith8,pos:533,val:+3: 
+which hit branch 196 (hit by 87024 inputs) 
+while bitflipping, 1001 of 5240 tries hit branch 196
+while calibrating, 920 of 1966 tries hit branch 196
+calib stage: 0 new coverage in 7206 total execs
+calib stage: 0 new branches in 7206 total execs
+In deterministic stage, 28077 of 28077 tries hit branch 196
+det stage: 0 new coverage in 35283 total execs
+det stage: 0 new branches in 35283 total execs
+In havoc stage, 2902 of 12032 tries hit branch 196
+havoc stage: 0 new coverage in 47315 total execs
+havoc stage: 0 new branches in 47315 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000039,src:000035,op:havoc,rep:4: 
+which hit branch 196 (hit by 90866 inputs) 
+while bitflipping, 1001 of 5240 tries hit branch 196
+while calibrating, 915 of 1966 tries hit branch 196
+calib stage: 0 new coverage in 7206 total execs
+calib stage: 0 new branches in 7206 total execs
+In deterministic stage, 28384 of 28384 tries hit branch 196
+det stage: 0 new coverage in 35590 total execs
+det stage: 0 new branches in 35590 total execs
+In havoc stage, 3410 of 12032 tries hit branch 196
+havoc stage: 0 new coverage in 47622 total execs
+havoc stage: 0 new branches in 47622 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000040,src:000035,op:havoc,rep:2: 
+which hit branch 196 (hit by 94934 inputs) 
+while bitflipping, 1000 of 5120 tries hit branch 196
+while calibrating, 894 of 1921 tries hit branch 196
+calib stage: 0 new coverage in 7041 total execs
+calib stage: 0 new branches in 7041 total execs
+In deterministic stage, 28408 of 28408 tries hit branch 196
+det stage: 0 new coverage in 35449 total execs
+det stage: 0 new branches in 35449 total execs
+In havoc stage, 4151 of 12032 tries hit branch 196
+havoc stage: 0 new coverage in 47481 total execs
+havoc stage: 0 new branches in 47481 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000041,src:000035,op:havoc,rep:2: 
+which hit branch 196 (hit by 99006 inputs) 
+while bitflipping, 5097 of 9232 tries hit branch 196
+while calibrating, 2438 of 3463 tries hit branch 196
+calib stage: 0 new coverage in 12695 total execs
+calib stage: 0 new branches in 12695 total execs
+In deterministic stage, 147696 of 147696 tries hit branch 196
+det stage: 0 new coverage in 160391 total execs
+det stage: 0 new branches in 160391 total execs
+In havoc stage, 3022 of 12032 tries hit branch 196
+havoc stage: 0 new coverage in 172423 total execs
+havoc stage: 0 new branches in 172423 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000042,src:000035,op:havoc,rep:4: 
+which hit branch 196 (hit by 118407 inputs) 
+while bitflipping, 1216 of 2056 tries hit branch 196
+while calibrating, 563 of 772 tries hit branch 196
+calib stage: 0 new coverage in 2828 total execs
+calib stage: 0 new branches in 2828 total execs
+In deterministic stage, 34699 of 34699 tries hit branch 196
+det stage: 0 new coverage in 37527 total execs
+det stage: 0 new branches in 37527 total execs
+In havoc stage, 4183 of 12032 tries hit branch 196
+havoc stage: 0 new coverage in 49559 total execs
+havoc stage: 0 new branches in 49559 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000043,src:000035,op:havoc,rep:2: 
+which hit branch 196 (hit by 122887 inputs) 
+while bitflipping, 1000 of 1024 tries hit branch 196
+while calibrating, 378 of 385 tries hit branch 196
+calib stage: 0 new coverage in 1409 total execs
+calib stage: 0 new branches in 1409 total execs
+In deterministic stage, 28408 of 28408 tries hit branch 196
+det stage: 0 new coverage in 29817 total execs
+det stage: 0 new branches in 29817 total execs
+In havoc stage, 7730 of 12032 tries hit branch 196
+havoc stage: 0 new coverage in 41849 total execs
+havoc stage: 0 new branches in 41849 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000044,src:000035,op:havoc,rep:4: 
+which hit branch 198 (hit by 104763 inputs) 
+while calibrating, 2328 of 3256 tries hit branch 198
+calib stage: 0 new coverage in 3256 total execs
+calib stage: 0 new branches in 3256 total execs
+In havoc stage, 1066 of 5888 tries hit branch 198
+havoc stage: 0 new coverage in 9144 total execs
+havoc stage: 0 new branches in 9144 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000045,src:000035,op:havoc,rep:2: 
+which hit branch 196 (hit by 127667 inputs) 
+while bitflipping, 880 of 5152 tries hit branch 196
+while calibrating, 875 of 1933 tries hit branch 196
+calib stage: 0 new coverage in 7085 total execs
+calib stage: 0 new branches in 7085 total execs
+In deterministic stage, 24913 of 24913 tries hit branch 196
+det stage: 0 new coverage in 31998 total execs
+det stage: 0 new branches in 31998 total execs
+In havoc stage, 4079 of 12032 tries hit branch 196
+havoc stage: 0 new coverage in 44030 total execs
+havoc stage: 0 new branches in 44030 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000046,src:000035,op:havoc,rep:4: 
+which hit branch 197 (hit by 100067 inputs) 
+while bitflipping, 505 of 2048 tries hit branch 197
+while calibrating, 384 of 769 tries hit branch 197
+calib stage: 0 new coverage in 2817 total execs
+calib stage: 0 new branches in 2817 total execs
+In deterministic stage, 13962 of 13962 tries hit branch 197
+det stage: 0 new coverage in 16779 total execs
+det stage: 0 new branches in 16779 total execs
+In havoc stage, 4284 of 12032 tries hit branch 197
+havoc stage: 0 new coverage in 28811 total execs
+havoc stage: 0 new branches in 28811 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000047,src:000022,op:arith8,pos:4,val:+3: 
+which hit branch 191 (hit by 92955 inputs) 
+while bitflipping, 25 of 56 tries hit branch 191
+while calibrating, 13 of 22 tries hit branch 191
+calib stage: 0 new coverage in 78 total execs
+calib stage: 0 new branches in 78 total execs
+In deterministic stage, 289 of 370 tries hit branch 191
+det stage: 0 new coverage in 448 total execs
+det stage: 0 new branches in 448 total execs
+In havoc stage, 2811 of 12032 tries hit branch 191
+havoc stage: 0 new coverage in 12480 total execs
+havoc stage: 0 new branches in 12480 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000048,src:000022,op:havoc,rep:2: 
+which hit branch 191 (hit by 93808 inputs) 
+while bitflipping, 145 of 176 tries hit branch 191
+while calibrating, 58 of 67 tries hit branch 191
+calib stage: 0 new coverage in 243 total execs
+calib stage: 0 new branches in 243 total execs
+In deterministic stage, 3378 of 3527 tries hit branch 191
+det stage: 0 new coverage in 3770 total execs
+det stage: 0 new branches in 3770 total execs
+In havoc stage, 3849 of 12032 tries hit branch 191
+havoc stage: 0 new coverage in 15802 total execs
+havoc stage: 0 new branches in 15802 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000049,src:000022,op:havoc,rep:2: 
+which hit branch 191 (hit by 95382 inputs) 
+while bitflipping, 3609 of 3640 tries hit branch 191
+while calibrating, 1357 of 1366 tries hit branch 191
+calib stage: 0 new coverage in 5006 total execs
+calib stage: 0 new branches in 5006 total execs
+In deterministic stage, 101185 of 101341 tries hit branch 191
+det stage: 0 new coverage in 106347 total execs
+det stage: 0 new branches in 106347 total execs
+In havoc stage, 7057 of 11776 tries hit branch 191
+havoc stage: 0 new coverage in 118123 total execs
+havoc stage: 0 new branches in 118123 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000050,src:000022,op:havoc,rep:4: 
+which hit branch 191 (hit by 126101 inputs) 
+while bitflipping, 89 of 128 tries hit branch 191
+while calibrating, 38 of 49 tries hit branch 191
+calib stage: 0 new coverage in 177 total execs
+calib stage: 0 new branches in 177 total execs
+In deterministic stage, 1860 of 1860 tries hit branch 191
+det stage: 0 new coverage in 2037 total execs
+det stage: 0 new branches in 2037 total execs
+In havoc stage, 4534 of 12032 tries hit branch 191
+havoc stage: 0 new coverage in 14069 total execs
+havoc stage: 0 new branches in 14069 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000051,src:000022,op:havoc,rep:8: 
+which hit branch 191 (hit by 127521 inputs) 
+while bitflipping, 121 of 160 tries hit branch 191
+while calibrating, 50 of 61 tries hit branch 191
+calib stage: 0 new coverage in 221 total execs
+calib stage: 0 new branches in 221 total execs
+In deterministic stage, 2923 of 2923 tries hit branch 191
+det stage: 0 new coverage in 3144 total execs
+det stage: 0 new branches in 3144 total execs
+In havoc stage, 3242 of 9024 tries hit branch 191
+havoc stage: 0 new coverage in 12168 total execs
+havoc stage: 0 new branches in 12168 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000052,src:000022,op:havoc,rep:4: 
+which hit branch 191 (hit by 128765 inputs) 
+while bitflipping, 3105 of 3136 tries hit branch 191
+while calibrating, 1168 of 1177 tries hit branch 191
+calib stage: 0 new coverage in 4313 total execs
+calib stage: 0 new branches in 4313 total execs
+In deterministic stage, 87121 of 87161 tries hit branch 191
+det stage: 0 new coverage in 91474 total execs
+det stage: 0 new branches in 91474 total execs
+In havoc stage, 6780 of 12032 tries hit branch 191
+havoc stage: 0 new coverage in 103506 total execs
+havoc stage: 0 new branches in 103506 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000053,src:000022,op:havoc,rep:8: 
+which hit branch 193 (hit by 123795 inputs) 
+while calibrating, 62 of 73 tries hit branch 193
+calib stage: 0 new coverage in 73 total execs
+calib stage: 0 new branches in 73 total execs
+In havoc stage, 1780 of 5376 tries hit branch 193
+havoc stage: 0 new coverage in 5449 total execs
+havoc stage: 0 new branches in 5449 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000054,src:000027,op:arith8,pos:131,val:-9: 
+which hit branch 197 (hit by 101941 inputs) 
+while bitflipping, 1040 of 1056 tries hit branch 197
+while calibrating, 392 of 397 tries hit branch 197
+calib stage: 0 new coverage in 1453 total execs
+calib stage: 0 new branches in 1453 total execs
+In deterministic stage, 29725 of 29725 tries hit branch 197
+det stage: 0 new coverage in 31178 total execs
+det stage: 0 new branches in 31178 total execs
+In havoc stage, 8723 of 11776 tries hit branch 197
+havoc stage: 0 new coverage in 42954 total execs
+havoc stage: 0 new branches in 42954 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000055,src:000027,op:havoc,rep:32: 
+which hit branch 197 (hit by 110730 inputs) 
+while bitflipping, 185 of 192 tries hit branch 197
+while calibrating, 71 of 73 tries hit branch 197
+calib stage: 0 new coverage in 265 total execs
+calib stage: 0 new branches in 265 total execs
+In deterministic stage, 4556 of 4707 tries hit branch 197
+det stage: 0 new coverage in 4972 total execs
+det stage: 0 new branches in 4972 total execs
+In havoc stage, 5940 of 12032 tries hit branch 197
+havoc stage: 0 new coverage in 17004 total execs
+havoc stage: 0 new branches in 17004 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000056,src:000044,op:havoc,rep:2: 
+which hit branch 198 (hit by 108237 inputs) 
+while calibrating, 1955 of 2374 tries hit branch 198
+calib stage: 0 new coverage in 2374 total execs
+calib stage: 0 new branches in 2374 total execs
+In havoc stage, 1225 of 5888 tries hit branch 198
+havoc stage: 0 new coverage in 8262 total execs
+havoc stage: 0 new branches in 8262 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000057,src:000053,op:flip1,pos:8: 
+which hit branch 193 (hit by 126436 inputs) 
+while calibrating, 24 of 37 tries hit branch 193
+calib stage: 0 new coverage in 37 total execs
+calib stage: 0 new branches in 37 total execs
+In havoc stage, 1401 of 5888 tries hit branch 193
+havoc stage: 0 new coverage in 5925 total execs
+havoc stage: 0 new branches in 5925 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000058,src:000053,op:flip1,pos:12: 
+which hit branch 193 (hit by 126813 inputs) 
+while calibrating, 36 of 49 tries hit branch 193
+calib stage: 0 new coverage in 49 total execs
+calib stage: 0 new branches in 49 total execs
+In havoc stage, 1635 of 5376 tries hit branch 193
+havoc stage: 0 new coverage in 5425 total execs
+havoc stage: 0 new branches in 5425 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000059,src:000053,op:havoc,rep:2: 
+which hit branch 193 (hit by 127360 inputs) 
+while calibrating, 1524 of 1537 tries hit branch 193
+calib stage: 0 new coverage in 1537 total execs
+calib stage: 0 new branches in 1537 total execs
+In havoc stage, 2618 of 5888 tries hit branch 193
+havoc stage: 0 new coverage in 7425 total execs
+havoc stage: 0 new branches in 7425 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000060,src:000056,op:havoc,rep:2: 
+which hit branch 198 (hit by 109106 inputs) 
+while calibrating, 3619 of 4021 tries hit branch 198
+calib stage: 0 new coverage in 4021 total execs
+calib stage: 0 new branches in 4021 total execs
+In havoc stage, 1789 of 8832 tries hit branch 198
+havoc stage: 0 new coverage in 12853 total execs
+havoc stage: 0 new branches in 12853 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000061,src:000056,op:havoc,rep:4: 
+which hit branch 198 (hit by 110547 inputs) 
+while calibrating, 1900 of 2173 tries hit branch 198
+calib stage: 0 new coverage in 2173 total execs
+calib stage: 0 new branches in 2173 total execs
+In havoc stage, 2040 of 8832 tries hit branch 198
+havoc stage: 0 new coverage in 11005 total execs
+havoc stage: 0 new branches in 11005 total execs
+We fuzzed this guy already
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000062,src:000057+000027,op:splice,rep:8: 
+which hit branch 197 (hit by 112118 inputs) 
+while calibrating, 81 of 85 tries hit branch 197
+calib stage: 0 new coverage in 85 total execs
+calib stage: 0 new branches in 85 total execs
+In deterministic stage, 4979 of 4979 tries hit branch 197
+det stage: 0 new coverage in 5064 total execs
+det stage: 0 new branches in 5064 total execs
+In havoc stage, 2456 of 5888 tries hit branch 197
+havoc stage: 0 new coverage in 10952 total execs
+havoc stage: 0 new branches in 10952 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000063,src:000057+000038,op:splice,rep:4: 
+which hit branch 193 (hit by 128792 inputs) 
+while calibrating, 936 of 1177 tries hit branch 193
+calib stage: 0 new coverage in 1177 total execs
+calib stage: 0 new branches in 1177 total execs
+In havoc stage, 1125 of 5888 tries hit branch 193
+havoc stage: 0 new coverage in 7065 total execs
+havoc stage: 0 new branches in 7065 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000064,src:000059,op:flip1,pos:132: 
+which hit branch 193 (hit by 129377 inputs) 
+while calibrating, 396 of 409 tries hit branch 193
+calib stage: 0 new coverage in 409 total execs
+calib stage: 0 new branches in 409 total execs
+In havoc stage, 2106 of 5632 tries hit branch 193
+havoc stage: 0 new coverage in 6041 total execs
+havoc stage: 0 new branches in 6041 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000065,src:000059,op:flip1,pos:133: 
+which hit branch 193 (hit by 129872 inputs) 
+while calibrating, 396 of 409 tries hit branch 193
+calib stage: 0 new coverage in 409 total execs
+calib stage: 0 new branches in 409 total execs
+In havoc stage, 2846 of 5632 tries hit branch 193
+havoc stage: 0 new coverage in 6041 total execs
+havoc stage: 0 new branches in 6041 total execs
+We fuzzed this guy already for real
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000066,src:000060,op:havoc,rep:2: 
+which hit branch 198 (hit by 111469 inputs) 
+while calibrating, 5792 of 6178 tries hit branch 198
+calib stage: 0 new coverage in 6178 total execs
+calib stage: 0 new branches in 6178 total execs
+In havoc stage, 1849 of 8832 tries hit branch 198
+havoc stage: 0 new coverage in 15010 total execs
+havoc stage: 0 new branches in 15010 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000067,src:000060,op:havoc,rep:8: 
+which hit branch 198 (hit by 113646 inputs) 
+while bitflipping, 4009 of 5640 tries hit branch 198
+while calibrating, 1712 of 2116 tries hit branch 198
+calib stage: 0 new coverage in 7756 total execs
+calib stage: 0 new branches in 7756 total execs
+In deterministic stage, 113717 of 113717 tries hit branch 198
+det stage: 0 new coverage in 121473 total execs
+det stage: 0 new branches in 121473 total execs
+In havoc stage, 11690 of 30336 tries hit branch 198
+havoc stage: 1 new coverage in 151817 total execs
+havoc stage: 0 new branches in 151817 total execs
+Trying to fuzz input asanoutputmain2fast_47/queue/id:000068,src:000061,op:havoc,rep:2: 
+which hit branch 198 (hit by 129582 inputs) 
+while bitflipping, 10457 of 11432 tries hit branch 198
+while calibrating, 4044 of 4288 tries hit branch 198
+calib stage: 0 new coverage in 15720 total execs
+calib stage: 0 new branches in 15720 total execs
+In havoc stage, 265177 of 265177 tries hit branch 198
+havoc stage: 0 new coverage in 280897 total execs
+havoc stage: 0 new branches in 280897 total execs
